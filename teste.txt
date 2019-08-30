@@ -1,1 +1,2 @@
 Meu primeiro arquivo de teste com o git.
+Adicionado algumas atualizações.
